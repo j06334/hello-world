@@ -1,0 +1,4 @@
+this is the second times for edit
+for i =1:D
+c(i) = 100;
+end
